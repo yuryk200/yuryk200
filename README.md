@@ -105,3 +105,25 @@ The icons below represent technologies I've used in professional software work, 
 
 [![Java and C Sharp](https://skillicons.dev/icons?i=java,cs&theme=dark&perline=2)](https://skillicons.dev)
 
+## What I'm doing now
+
+- **PhD Researcher · TU Dublin:** AI-driven building design, computer vision, 3D representations and energy-performance evaluation.
+- **Assistant Lecturer · TU Dublin:** Running practical computing labs, demonstrating concepts and assessing student work.
+- **AI Research Contributor · Outlier AI:** Evaluating and contributing to AI/LLM research tasks.
+
+Previously, I worked in **software development at Margins AI**, gaining practical experience with web applications and backend systems.
+
+## GitHub activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuryk200&show_icons=true&hide_border=true&theme=transparent&title_color=AE91EF&text_color=9FB3C9&icon_color=9D83E8" alt="Public GitHub activity statistics" height="160" />
+</p>
+
+<sub>Some PhD work and professional projects are private or not hosted on GitHub; public contribution statistics are only part of my experience.</sub>
+
+---
+
+<p align="center">
+  <a href="https://github.com/yuryk200?tab=repositories">Explore repositories</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/yuriy-kizyuk-bb4202207/">LinkedIn</a>
+</p>
