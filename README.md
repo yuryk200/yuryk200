@@ -7,20 +7,18 @@
   <a href="https://www.linkedin.com/in/yuriy-kizyuk-bb4202207/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 </p>
 
-## About me
-
-I'm a **software developer and AI PhD researcher at TU Dublin**, interested in building systems that connect research with practical applications. My background combines a **BSc in Computer Science**, full-stack software development, computer vision, and 3D technologies.
-
-From an Android application that interprets chemical structures to research on **architectural floorplan understanding** and **energy-aware generative building design**, I enjoy working on the complete engineering process: data preparation, algorithms and models, application integration, testing, and visualisation.
-
-**Technical toolkit**
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn,cs,dotnet,java,unity,blender&theme=dark&perline=10" alt="Python, PyTorch, TensorFlow, OpenCV, scikit-learn, C#, .NET, Java, Unity, Blender" />
 </p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,ts,js,php,mysql,flask,threejs,aws,docker,git,linux&theme=dark&perline=11" alt="React, TypeScript, JavaScript, PHP, MySQL, Flask, Three.js, AWS, Docker, Git, Linux" />
 </p>
+
+## About me
+
+I'm a software developer and AI PhD researcher at TU Dublin, interested in building systems that connect research with practical applications. My background combines a BSc in Computer Science, full-stack software development, computer vision and 3D technologies.
+
+From an Android application that interprets chemical structures to research on architectural floorplan understanding and energy-aware generative building design, I enjoy working on the complete engineering process: data preparation, algorithms and models, application integration, testing and visualisation.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Applied_AI-6441A5?style=flat-square" alt="Applied AI" />
@@ -31,8 +29,6 @@ From an Android application that interprets chemical structures to research on *
 
 ## AI Projects
 
-<sub>Visuals below are conceptual illustrations of the projects and research, not screenshots or measured performance results.</sub>
-
 ### <img src="assets/icons/modelhub.png" width="44" height="44" alt="" align="absmiddle" /> ModelHub — Local AI Model Management
 
 <p align="center">
@@ -42,7 +38,7 @@ From an Android application that interprets chemical structures to research on *
 
 **Desktop software project** · C# · .NET · Avalonia · LM Studio
 
-A desktop application for working with **locally hosted AI models** through LM Studio. Built with **C#/.NET** and **Avalonia**, it provides a graphical interface for loading and unloading models, submitting prompts, and comparing responses from different models without switching between tools.
+A desktop application for working with locally hosted AI models through LM Studio. Built with **C#/.NET** and **Avalonia**, it provides a graphical interface for loading and unloading models, submitting prompts and comparing responses from different models without switching between tools.
 
 **Engineering highlights:** Desktop UI development; integration with a local AI model service; model lifecycle controls; and a unified workflow for interacting with multiple LLMs.
 
@@ -64,7 +60,7 @@ A desktop application for working with **locally hosted AI models** through LM S
 
 **BSc Computer Science final-year project** · Computer vision · Mobile development · 3D visualisation
 
-An Android application that transforms an image of a hydrocarbon structure into a chemical representation and an interactive 3D molecular model. I integrated the Android client, a Python/Flask inference backend, and Unity to create an end-to-end image-to-visualisation workflow.
+An Android application that transforms an image of a hydrocarbon structure into a chemical representation and an interactive 3D molecular model. I integrated the Android client, a Python/Flask inference backend and Unity to create an end-to-end image-to-visualisation workflow.
 
 **Engineering highlights:** Android/Java client and REST communication; integration of an existing image-to-structure ML model; generation and transfer of molecular SDF data; interactive Unity rendering and scan history.
 
@@ -105,7 +101,7 @@ A tool that processes DNA sequences from FASTA files, generates complementary an
 
 **Standalone 3D component of ChemSolve** · Unity · C#
 
-A Unity renderer that reads molecular SDF data, reconstructs atoms and bonds as runtime geometry, and displays the resulting structure in 3D. It demonstrates parsing a domain-specific file format, programmatic object generation, and integration with an Android application.
+A Unity renderer that reads molecular SDF data, reconstructs atoms and bonds as runtime geometry and displays the resulting structure in 3D. It demonstrates parsing a domain-specific file format, programmatic object generation and integration with an Android application.
 
 ![Unity](https://img.shields.io/badge/Engine-Unity-22273B?style=flat-square&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/Language-C%23-5E3D99?style=flat-square&logo=sharp&logoColor=white)
@@ -124,7 +120,7 @@ My current research investigates how AI can support the generation and assessmen
 </p>
 
 
-Developing a computer-vision pipeline to extract architectural information from *real residential floorplans*, including **rooms, interior/exterior walls, doors, windows, stairs and building boundaries**. The work spans dataset curation and annotation, neural-network segmentation, evaluation on annotated data, and geometry-aware post-processing.
+Developing a computer-vision pipeline to extract architectural information from *real residential floorplans*, including **rooms, interior/exterior walls, doors, windows, stairs and building boundaries**. The work spans dataset curation and annotation, neural-network segmentation, evaluation on annotated data and geometry-aware post-processing.
 
 ![Status](https://img.shields.io/badge/Status-Active_Research-6F56BC?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/Framework-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
