@@ -7,10 +7,10 @@
   <a href="https://www.linkedin.com/in/yuriy-kizyuk-bb4202207/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn,cs,dotnet,java,unity,blender&theme=dark&perline=10" alt="Python, PyTorch, TensorFlow, OpenCV, scikit-learn, C#, .NET, Java, Unity, Blender" />
 </p>
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,php,mysql,flask,threejs,aws,docker,git,linux&theme=dark&perline=11" alt="React, TypeScript, JavaScript, PHP, MySQL, Flask, Three.js, AWS, Docker, Git, Linux" />
 </p>
 
