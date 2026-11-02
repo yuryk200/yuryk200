@@ -33,10 +33,10 @@ From an Android application that interprets chemical structures to research on *
 
 <sub>Visuals below are conceptual illustrations of the projects and research, not screenshots or measured performance results.</sub>
 
-### ModelHub — Local AI Model Management
+### [ModelHub — Local AI Model Management](https://github.com/yuryk200/ModelHub)
 
 <p align="center">
-  <img src="assets/projects/modelhub.png" alt="Concept artwork of ModelHub, a desktop app for managing locally hosted AI models" width="760" />
+  <img src="assets/projects/modelhub.png" alt="Concept artwork of ModelHub, a desktop app for managing locally hosted AI models" width="680" />
 </p>
 
 
@@ -51,14 +51,14 @@ A desktop application for working with **locally hosted AI models** through LM S
 ![Avalonia](https://img.shields.io/badge/UI-Avalonia-7651BA?style=flat-square)
 ![LLMs](https://img.shields.io/badge/AI-Local_LLMs-395C91?style=flat-square)
 
-*Repository link to be added when publicly available.*
+**[View ModelHub source code](https://github.com/yuryk200/ModelHub)**
 
 ---
 
 ### [ChemSolve — Image-to-Molecule Android Application](https://github.com/yuryk200/ChemApp-Final-Year-Project)
 
 <p align="center">
-  <img src="assets/projects/chemsolve.png" alt="Concept artwork illustrating the ChemSolve Android image-to-molecule workflow" width="760" />
+  <img src="assets/projects/chemsolve.png" alt="Concept artwork illustrating the ChemSolve Android image-to-molecule workflow" width="680" />
 </p>
 
 
@@ -80,7 +80,7 @@ An Android application that transforms an image of a hydrocarbon structure into 
 ### [ORF Gene Reader — Python Bioinformatics Tool](https://github.com/yuryk200/Gene-Reader)
 
 <p align="center">
-  <img src="assets/projects/orf-gene-reader.png" alt="Concept artwork of DNA FASTA sequence parsing, reading frames, and amino acid translation" width="760" />
+  <img src="assets/projects/orf-gene-reader.png" alt="Concept artwork of DNA FASTA sequence parsing, reading frames, and amino acid translation" width="680" />
 </p>
 
 
@@ -99,7 +99,7 @@ A tool that processes DNA sequences from FASTA files, generates complementary an
 ### [Unity SDF Renderer — Runtime Molecular Visualisation](https://github.com/yuryk200/Unity-3D-SDF)
 
 <p align="center">
-  <img src="assets/projects/unity-sdf-renderer.png" alt="Concept illustration of the Unity SDF molecular data rendering pipeline" width="760" />
+  <img src="assets/projects/unity-sdf-renderer.png" alt="Concept illustration of the Unity SDF molecular data rendering pipeline" width="680" />
 </p>
 
 
@@ -120,7 +120,7 @@ My current research investigates how AI can support the generation and assessmen
 ### Architectural floorplan understanding
 
 <p align="center">
-  <img src="assets/projects/floorplan-understanding.png" alt="Concept graphic showing raw architectural floorplans segmented into rooms, walls, windows, stairs and doors" width="760" />
+  <img src="assets/projects/floorplan-understanding.png" alt="Concept graphic showing raw architectural floorplans segmented into rooms, walls, windows, stairs and doors" width="680" />
 </p>
 
 
@@ -133,7 +133,7 @@ Developing a computer-vision pipeline to extract architectural information from 
 ### Generative 3D building design & energy assessment
 
 <p align="center">
-  <img src="assets/projects/generative-building-energy.png" alt="Concept visualisation of generative residential architecture and building energy analysis" width="760" />
+  <img src="assets/projects/generative-building-energy.png" alt="Concept visualisation of generative residential architecture and building energy analysis" width="680" />
 </p>
 
 
